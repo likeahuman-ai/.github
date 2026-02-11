@@ -22,9 +22,9 @@ We help eCom & D2C brands integrate AI and scale growth. From dedicated AI agent
 
 ## Team
 
-**Stefan Staats** — Co-founder. Strategy, sales, and client partnerships. Makes sure every engagement delivers real business impact.
+**Stefan Staats** — Founder. Strategy, sales, and client partnerships. Makes sure every engagement delivers real business impact.
 
-**Jasper Staats** — Co-founder & Senior Engineer. Frontend architecture, design systems, data visualization, creative coding, and AI integration. React, Next.js, TypeScript. Previously at McLaren Applied.
+**Jasper Staats** — Fractional CTO. Frontend architecture, design systems, data visualization, creative coding, and AI integration. React, Next.js, TypeScript. Previously at McLaren Applied.
 
 ## Philosophy
 
