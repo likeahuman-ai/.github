@@ -1,79 +1,56 @@
 <p align="center">
-  <h1 align="center">Like a Human</h1>
-  <p align="center"><strong>AI Marketing Automation Studio</strong> — Amsterdam, Netherlands</p>
+  <h1 align="center">Like a Human AI</h1>
+  <p align="center"><strong>AI-native academy &amp; studio</strong> — Amsterdam &amp; Barcelona</p>
 </p>
 
 <p align="center">
-  <a href="https://www.trustpilot.com/review/likeahuman.ai"><img src="https://img.shields.io/badge/Trustpilot-★★★★★_5%2F5-00b67a?style=for-the-badge&logo=trustpilot&logoColor=white" alt="Trustpilot"></a>
-  <a href="https://likeahuman.ai"><img src="https://img.shields.io/badge/likeahuman.ai-000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://likeahuman.ai"><img src="https://img.shields.io/badge/Learn_to_work-AI--native-000?style=for-the-badge" alt="Learn to work AI-native"></a>
+  <a href="https://likeahuman.ai"><img src="https://img.shields.io/badge/Rated-4.9%2F5-00b67a?style=for-the-badge" alt="Rated 4.9/5"></a>
   <a href="mailto:hello@likeahuman.ai"><img src="https://img.shields.io/badge/hello@likeahuman.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <br>
 
 <p align="center">
-We help eCom & D2C brands integrate AI and scale growth.<br>
-Dedicated AI agents running 24/7 on autopilot — trained on your brand, your tone of voice, and your products.
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_Live_in-30_days-black?style=flat-square" alt="30 days">
-  &nbsp;
-  <img src="https://img.shields.io/badge/📈_Efficiency_boost-30%25_guaranteed-black?style=flat-square" alt="30% boost">
-  &nbsp;
-  <img src="https://img.shields.io/badge/🌍_Climate_action-1%25_revenue-black?style=flat-square" alt="1% climate">
+We train software developers and business teams to work AI-native.<br>
+Public Claude Code Masterclasses and private adoption programs. Everything we teach, we use ourselves.
 </p>
 
 ---
 
 ### What we do
 
-| | Service | Description |
+| | Program | Description |
 |---|---|---|
-| 🤖 | **AI Automation** | Dedicated AI agents for SEO, ads, copy, reporting, and customer service. All tools, tokens, and tech included — one fixed monthly price. |
-| 📊 | **AI-Powered Platforms** | Custom dashboards, SaaS products, and data platforms with built-in intelligence, proactive alerts, and conversational AI copilots. |
-| 📸 | **AI Creative Production** | AI-generated product photography and lifestyle imagery. High-volume, on-brand visual content. |
-| 🎓 | **AI Workshops & Courses** | Hands-on training for teams. Concrete, same-day applicable tools and strategies. |
+| 💻 | **Public Workshops (CCMD / CCMB)** | Hands-on Claude Code Masterclasses for developers (CCMD) and business teams (CCMB). Same-day applicable. Multiple editions per month in NL and Spain. |
+| 🏢 | **Private Adoption Programs (CDA / CBA)** | Custom programs to activate entire teams — from one-day activations to multi-week transformations. For dev teams (CDA) and business teams (CBA). |
+| 🎓 | **Online Academy** | Self-paced courses extending what we teach live. Launching Q3 2026. |
+| 🤝 | **Development (referral)** | AI development referred to a vetted partner. Academy is our core focus. |
 
 ---
 
-### Tech stack
+### Who we work with
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square" alt="Convex">
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk">
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-4">
-  <img src="https://img.shields.io/badge/Midjourney-000?style=flat-square" alt="Midjourney">
-</p>
+Founders and teams at EUR 3-20M companies across the Netherlands and Spain. Workshop alumni include teams from **Backbase**, **Philips**, **VodafoneZiggo**, **Visma (Roxit)**, **Capgemini**, **Babilou**, and **Praxis**.
 
 ---
 
 ### Team
 
-**Stefan Staats** — Founder. Strategy, sales, and client partnerships. Makes sure every engagement delivers real business impact.
+**Stefan Luttik** — Head of Growth &amp; Founder. 10+ years marketing and growth at Deliveroo, Gisou, Talpa, and Edelman.
 
-**Jasper Staats** — Fractional CTO. Frontend architecture, design systems, data visualization, creative coding, and AI integration. React, Next.js, TypeScript. Previously at McLaren Applied.
+**Jasper Staats** — Head of Tech &amp; Partner. 10+ years engineering at McLaren Applied, VanMoof, and DPG Media.
+
+**Tim Weeda** — Learning Designer &amp; Lead Instructor. Designs and facilitates our workshops and adoption programs.
 
 ---
 
 ### Philosophy
 
-> We believe AI should feel natural — not like a tech demo. Every product we ship is designed to be used daily by people who don't care about the technology behind it. They just want it to work, and work well.
+> We believe AI should feel natural — not like a tech demo. We train teams to actually work with AI, from the first prompt to production workflows.
 
-**Ship fast, iterate faster** — Prototypes in days, not months
+**Practitioners, not professors** — We use what we teach, every day
 
-**AI as a feature, not a gimmick** — Intelligence where it adds value
+**Dual-track** — We train software developers *and* business teams
 
-**Design matters** — If it doesn't look good, nobody uses it
-
-**1% for the planet** — We commit 1% of all revenue to climate action through [Justdiggit](https://justdiggit.org)
+**Same-day applicable** — No theory-only sessions, rated 4.9/5 across 10+ editions
